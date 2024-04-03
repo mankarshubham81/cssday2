@@ -1,0 +1,55 @@
+.parent1{
+    height: 400px;
+    width: 600px;
+    margin: 30px auto;
+    position: relative;
+}
+
+.tajImage{
+    width: 100%;
+    border-radius: 14px;
+}
+
+.child1{
+    padding: 10px;
+    color: white;
+    top: 80px;
+    text-align: center;
+    position: absolute;
+}
+
+.btn{
+    padding: 10px 20px 10px 20px;
+    border-color: white;
+    background-color: white;
+    border-radius: 16px;
+}
+
+.profile{
+    width: 400px;
+    margin: auto;
+    position: relative;
+}
+.cover{
+    width: 100%;
+    border-radius: 14px 14px 0 0 ;
+    /* filter: blur(5px); */
+}
+.user{
+    height: 100px;
+    position: absolute;
+    left: 50px;
+    bottom: -50px;
+    border: 4px solid white;
+    border-radius: 50%;
+}
+
+.info{
+    margin-top: 60px;
+    align-items: center;
+    text-align: center;
+}
+
+.gray{
+    color: rgb(181, 179, 179);
+}
