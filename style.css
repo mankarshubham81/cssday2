@@ -54,3 +54,63 @@
 .gray{
     color: rgb(181, 179, 179);
 }
+
+
+/* card css */
+
+.mycard{
+    width: 500px;
+    border: 2px solid rgb(220, 215, 215);
+    border-radius: 24px;
+    margin: 40px auto;
+    padding: 15px;
+    position: relative;
+}
+
+.mycard-img{
+    width: 100%;
+    border-radius: 24px;
+
+}
+
+.p1{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.p2{
+    font-size: 18px;
+    color: rgb(153, 148, 148);
+}
+
+.p3{
+    color: rgb(153, 148, 148);
+    font-size: 18px;
+}
+
+.mycard-logo{
+    width: 100px;
+    height: 40px;
+}
+
+.dflex1{
+    display: flex;
+    border-top: 2px solid lightgray;
+    padding-top: 10px;
+    gap: 10px;
+    align-items: center;
+}
+
+.tag3{
+    font-size: 18px;
+    height: 22px;
+    padding: 5px;
+    text-align: center;
+    width: 60px;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    position: absolute;
+    right: 30px;
+    top: 260px;
+}
