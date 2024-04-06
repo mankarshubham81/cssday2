@@ -114,3 +114,33 @@
     right: 30px;
     top: 260px;
 }
+
+.tag2{
+    font-size: 20px;
+    height: 22px;
+    /* padding: 5px; */
+    text-align: center;
+    width: 200px;
+    border-radius: 0 4px 4px 0;
+    color: white;
+    background-color: rgb(41, 131, 241);
+    position: absolute;
+    bottom: 230px;
+    left: 15px;
+    
+}
+
+.tag1{
+    font-size: 18px;
+    height: 20px;
+    padding: 5px;
+    text-align: center;
+    width: 80px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgba(150, 151, 148, 0.526);
+    position: absolute;
+    bottom: 470px;
+    left: 30px;
+    
+}
